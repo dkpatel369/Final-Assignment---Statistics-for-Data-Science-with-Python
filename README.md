@@ -14,3 +14,17 @@ Using the appropriate graphs and charts, generate basic statistics and visualiza
 
 Details regarding the project will be broken down in the next reading sections.
 
+Overview of Project TasksFinal Project: For the project scenario, here is an overview of your tasks. The following reading sections will provide you with detailed instructions for each task.
+
+Project Tasks:
+
+Task 1: Familiarize yourself with the dataset 
+
+Task 2: Generate basic statistics and visualizations for upper management. 
+
+Task 3: Use the appropriate tests to answer the questions provided.
+
+Task 4: Share your Jupyter Notebook.
+
+ This project is worth 15% of your final grade. Detailed instructions for each of these tasks follow.
+
