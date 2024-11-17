@@ -14,9 +14,9 @@ Using the appropriate graphs and charts, generate basic statistics and visualiza
 
 Details regarding the project will be broken down in the next reading sections.
 
-# Overview of Project TasksFinal Project
+# Overview of Project Tasks
 
-For the project scenario, here is an overview of your tasks. The following reading sections will provide you with detailed instructions for each task.
+Final Project: For the project scenario, here is an overview of your tasks. The following reading sections will provide you with detailed instructions for each task.
 
 Project Tasks:
 
