@@ -1,4 +1,4 @@
-# Project Case Scenario: 
+# Project Case Scenario
 
 You are a Data Scientist with a housing agency in Boston MA, you have been given access to a previous dataset on housing prices derived from the U.S. Census Service to present insights to higher management. Based on your experience in Statistics, what information can you provide them to help with making an informed decision? Upper management will like to get some insight into the following.
 
@@ -14,7 +14,9 @@ Using the appropriate graphs and charts, generate basic statistics and visualiza
 
 Details regarding the project will be broken down in the next reading sections.
 
-# Overview of Project TasksFinal Project: For the project scenario, here is an overview of your tasks. The following reading sections will provide you with detailed instructions for each task.
+# Overview of Project TasksFinal Project
+
+For the project scenario, here is an overview of your tasks. The following reading sections will provide you with detailed instructions for each task.
 
 Project Tasks:
 
